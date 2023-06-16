@@ -1,6 +1,9 @@
 ### Hello there 👋 , I am Ganesh Patil
 __________________________________________________
 A creative full stack developer 
+
+Connect with me:
+https://www.linkedin.com/in/ganesh-patil-3091a1194/
 <!--
 **gp62200/gp62200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
