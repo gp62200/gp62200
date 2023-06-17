@@ -1,7 +1,3 @@
-### Hello there 👋 , I am Ganesh Patil
-__________________________________________________
-A creative full stack developer 
-
 <h1 align="center">Hi 👋, I'm Ganesh Patil</h1>
 <h3 align="center">A creative frontend developer from India</h3>
 
