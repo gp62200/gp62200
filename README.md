@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gp62200" alt="gp62200" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ganeshp58787379" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshp58787379?logo=twitter&style=for-the-badge" alt="ganeshp58787379" /></a> </p>
+
 
 - 🌱 I’m have done **CDAC**
 
