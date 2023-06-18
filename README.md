@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://wallpaperaccess.com/full/3909236.png">
+<img align="center" width="800" src="https://wallpaperaccess.com/full/3909236.png">
 <h1 align="center">Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ganesh Patil</h1>
 <h3 align="center">A creative frontend developer from India</h3>
 
