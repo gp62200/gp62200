@@ -40,6 +40,7 @@
 
 <h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
 <br />
+
 <p><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp62200&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gp62200&show_icons=true&locale=en" alt="gp62200" /></p>
