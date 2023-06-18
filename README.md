@@ -1,4 +1,4 @@
-<img align="center" height="400" width="1200" src="https://wallpaperaccess.com/full/3909236.png">
+<img align="center" height="300" width="1200" src="https://wallpaperaccess.com/full/3909236.png">
 <h1 align="center">Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ganesh Patil</h1>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;+I+am+Frontend+Developer" alt="Typing SVG" /></a>
 
