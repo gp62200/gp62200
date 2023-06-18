@@ -20,7 +20,8 @@
 
 - ⚡ Fun fact **I think I have Patience**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> 
+<div align="center"></h3>
 <p align="left">
 <a href="https://twitter.com/ganeshp58787379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshp58787379" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-patil-3091a1194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-patil-3091a1194/" height="30" width="40" /></a>
