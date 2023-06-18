@@ -11,7 +11,7 @@
 
 - 🌱 I’m have done **CDAC**
 
-- 💬 Ask me about **Java,Javascript,RaectJS,MySQL,MongoDB**
+- 💬 Ask me about **Java,Javascript,ReactJS,MySQL,MongoDB**
 
 - 📫 How to reach me **ganeshpatil622000@gmail.com**
 
