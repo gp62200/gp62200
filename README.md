@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gp62200&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gp62200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp62200&" alt="gp62200" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp62200&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gp62200" /></p>
 
 <!--
 **gp62200/gp62200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
