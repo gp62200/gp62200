@@ -42,7 +42,7 @@
 <h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gp62200&show_icons=true&locale=en&layout=compact&count_private=true&layout=compact&bg_color=0D1117&color=813DD1&title_color=5BCDEC" alt="gp62200" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp62200&show_icons=true&locale=en&layout=compact" alt="gp62200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gp62200&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="gp62200" /></p>
 
