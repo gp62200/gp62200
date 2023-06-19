@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp62200&label=Profile%20views&color=0e75b6&style=flat" alt="gp62200" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ganeshp58787379" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshp58787379?logo=twitter&style=for-the-badge" alt="ganeshp58787379" /></a> </p>
+
 
 - 🌱 I’m have done **CDAC**
 
